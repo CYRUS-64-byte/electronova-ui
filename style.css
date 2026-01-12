@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 30px;
+}
+
+h1 {
+    color: #222;
+    letter-spacing: 3px;
+}
+
+a {
+    text-decoration: none;
+    color: #0077cc;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* hr {
+    margin: 20px 0;
+} */
+
+/* h3 {
+    color: #333;
+} */
+
+p {
+    color: #555;
+}
